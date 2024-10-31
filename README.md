@@ -7,7 +7,7 @@ Fale comigo:
 
 Email: fabicoelhodesouzaleao@gmail.com  
 
-Linkedln: www.linkedin.com/in/fabiana-coelho-de-souza-leão-a047352b7
+Linkedln: [Linkedln]( www.linkedin.com/in/fabiana-coelho-de-souza-leão-a047352b7)
 
 ## Competências
 Programação: Python, C  
